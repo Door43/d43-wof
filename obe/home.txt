@@ -1,0 +1,16 @@
+====== Complete List of Important Terms ======
+
+==== "Key Terms" and "Other Terms" in OBE: ====
+
+  * [[:wof:obe:kt:home|Key Terms]]
+  * [[:wof:obe:other:home|Other Terms]]
+
+==== Does a term need to be in either of these lists? ====
+  * [[:wof:bible:team-info:training:topics:kt-yes-no]]
+  * [[en:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
+  * [[:wof:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
+
+==== All Terms in the OBE: ====
+
+<nspages wof:obe -r -title -exclude:home -textPages="">
+

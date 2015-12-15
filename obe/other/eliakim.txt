@@ -1,0 +1,25 @@
+====== Eliakim ======
+
+===== Facts: =====
+
+Eliakim was the name of two men in the Old Testament.
+
+  * One man named Eliakim was the manager of the palace under King Hezekiah from 715 to 686 B.C.
+  * Another man named Eliakim was a son of King Josiah. He was made king of Judah by the Egyptian pharaoh, Necho around 600 B.C.
+  * Necho changed Eliakim's name to Jehoiakim.
+
+
+(Translation suggestions: [[:wof:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:wof:obe:other:jehoiakim]], [[:wof:obe:other:josiah]], [[:wof:obe:other:hezekiah]], [[:wof:obe:other:pharaoh]])
+
+===== Bible References: =====
+
+{{topic>Eliakim&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
+
+  * [[:wof:obe:other:elder|Prev chunk]]: [[:wof:obe:other:elder?do=diff&rev2[0]=1419043348&rev2[1]=&difftype=sidebyside|publish-current]]
+  * [[:wof:obe:other:elijah|Next chunk]]: [[:wof:obe:other:elijah?do=diff&rev2[0]=1412038574&rev2[1]=&difftype=sidebyside|publish-current]]

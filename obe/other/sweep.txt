@@ -1,0 +1,20 @@
+====== sweep, swept ======
+
+===== Facts: =====
+
+Used figuratively in the Bible to describe a broad, swift military movement.
+
+  * Isaiah prophesied that the Assyrians would sweep into through into Judah.
+  * Habakkuk prophesied that the Chaldeans would sweep through and collect captives as they went.
+
+(Translation suggestions: [[:wof:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>sweep&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>review dan11 ktlink}}

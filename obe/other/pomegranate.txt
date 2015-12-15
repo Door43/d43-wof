@@ -1,0 +1,18 @@
+====== pomegranate ======
+
+===== Facts: =====
+
+Text
+
+  * bullet
+  * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?pomegranate&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft sng07 ktlink}}
