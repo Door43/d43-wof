@@ -1,0 +1,30 @@
+===== David the Shepherd [17-02] =====
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink}}
+
+**God** chose a young **Israelite** named David to be **king** after **Saul**. David was a **shepherd** from the town of **Bethlehem**. At different times while he was **watching** his father's **sheep**, David had killed both a lion and a bear that had attacked the sheep. David was a **humble** and **righteous** man who **trusted** and **obeyed** God.
+===== Important Terms: =====
+
+
+  * **[[:wof:obe:kt:god]]**
+  * **[[:wof:obe:other:israel]]**
+  * **[[:wof:obe:other:david]]**
+  * **[[:wof:obe:other:king]]**
+  * **[[:wof:obe:other:saul]]**
+  * **[[:wof:obe:other:shepherd]]**
+  * **[[:wof:obe:other:bethlehem]]**
+  * **[[:wof:obe:other:sheep]]**
+  * **[[:wof:obe:other:humble]]**
+  * **[[:wof:obe:kt:righteous]]**
+  * **[[:wof:obe:kt:trust]]**
+  * **[[:wof:obe:other:obey]]**
+
+
+==== Translation Notes: ====
+
+
+  * **watching** - That is, "caring for" or, "protecting" or, "taking care of."
+
+
+**[[:wof:obs:notes:frames:17-01|<<]] | [[:wof:obs:notes:17|Up]] | [[:wof:obs:notes:frames:17-03|>>]]**
